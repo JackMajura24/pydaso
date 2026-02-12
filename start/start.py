@@ -11,4 +11,6 @@ if typed_password == secret_password:
 if typed_password == '12345':
     print('That password is one that an idiot puts on their luggage ')
 else:
-    print('Access denied')         
+    print('Access denied')   
+    else:
+    print('Access denied')      
